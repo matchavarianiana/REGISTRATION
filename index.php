@@ -13,7 +13,7 @@
             <label for="first">
                   Username:
                </label>
-            <input type="text" id="first" name="first"
+            <input type="text" id="first" name="username"
                    placeholder="Enter your Username" required> 
             <label for="password">
                     Password:
@@ -23,7 +23,7 @@
             <label for="password">
                       Password:
                   </label>
-                <input type="password" id="password" name="password"
+                <input type="password" id="re-password" name="re-password"
                        placeholder="Repeat Your Password" required>
                 <div class="wrap">
                 <button type="submit"
